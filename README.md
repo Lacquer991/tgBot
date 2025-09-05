@@ -24,7 +24,7 @@
 
 ## Технологический стек
 
-- **Язык и фреймворки:** Java 17, Spring Boot 3 (Spring Web, Spring AOP, Spring Data JPA)  
+- **Фреймворки:** Spring Boot 3 (Spring Web, Spring AOP, Spring Data JPA)  
 - **База данных:** PostgreSQL, Hibernate ORM  
 - **Интеграция с Telegram:** TelegramBots API  
 - **Сборка:** Maven  
